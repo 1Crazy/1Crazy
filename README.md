@@ -1,4 +1,4 @@
-<img align="right" src="http://bpic.588ku.com/element_pic/00/16/08/1557b139bb1dc24.jpg" alt="1crazy gold medal">
+<img align="right" src="https://th.bing.com/th/id/OIP.IPQVax9ZoeQYEBR4LZ2wHQHaJ7?pid=Api&rs=1" alt="1crazy gold medal">
 
 <!--
 **1Crazy/1Crazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
