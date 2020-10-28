@@ -27,3 +27,5 @@ big old big old 1Crazy.
 thanks.
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=1Crazy&show_icons=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Crazy&hide=TeX&layout=compact)
