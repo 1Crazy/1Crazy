@@ -1,36 +1,44 @@
-<img align="right" src="https://thamesvalleytaekwondo.com/wp-content/uploads/sites/314/2019/11/golden-medal-design_1166-34-250x250.jpg" alt="1crazy gold medal">
+# 👋 Hi, I'm 1Crazy
 
-<!--
-**1Crazy/1Crazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer
 
-Here are some ideas to get you started:
+Building modern web applications with Frontend, Backend and AI technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Welcome to his github:
 
-He has just won the Github Personal Creation Award. Let's celebrate him.
-<br/>
-oh oh oh oh oh oh oh oh oh oh oh oh oh oh 👋
-<br/>
-big old  big old  big old  big old  big old 👋
-<br/>
-big old big old 1Crazy.
-<br/>
-thanks.
+## 🛠️ Tech Stack
 
-## 💻 Languages
+### Frontend
 
-![Languages](./profile-summary-card-output/1Crazy/1-repos-per-language.svg)
+Vue · React · TypeScript · JavaScript
 
+
+### Backend
+
+Java · Spring Boot · NestJS · Node.js
+
+
+### Database & Infrastructure
+
+PostgreSQL · MySQL · Redis · Docker
+
+
+### Data & AI
+
+Python · Quantitative Development · AI Coding
+
+
+---
 
 ## 📊 GitHub Stats
 
-![Stats](./profile-summary-card-output/1Crazy/3-stats.svg)
+![Profile Details](./profile-summary-card-output/nord_dark/0-profile-details.svg)
+
+
+## 💻 Languages
+
+![Languages](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+
+
+## 🔥 Most Used Language
+
+![Most Commit Language](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)
