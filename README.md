@@ -26,6 +26,11 @@ big old big old 1Crazy.
 <br/>
 thanks.
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=1Crazy&show_icons=true&hide_border=true)
+## 💻 Languages
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1Crazy&layout=compact)
+![Languages](./profile-summary-card-output/1Crazy/1-repos-per-language.svg)
+
+
+## 📊 GitHub Stats
+
+![Stats](./profile-summary-card-output/1Crazy/3-stats.svg)
